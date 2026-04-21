@@ -1,10 +1,14 @@
+# Davi Moreira
 
+## Personal Information
+- **Name:** Davi Moreira  
+- **Age:** 15 years old  
+- **Email:** moreiradavi3377@gmail.com  
+- **Phone:** 31990005262  
+- **Instagram:** @dmoreirap_  
 
-- **Nome:** Davi Moreira
-- **Idade:** 15 anos
-- **Linguagens de Programação:** Python, SQL, C++
-- **Certificados:** [My-Certificates](https://github.com/davimoreira0/My-Certificates)
-- **Email:** moreiradavi3377@gmail.com
-- **Telefone:** 31990005262
-- **Instagram:** @dmoreirap_
-  
+## Programming Skills
+- **Languages:** Python, SQL, C++  
+
+## Certifications
+- [View my certificates](https://github.com/davimoreira0/My-Certificates)  
