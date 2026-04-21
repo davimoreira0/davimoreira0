@@ -26,7 +26,7 @@ Programming student passionate about technology, always seeking new knowledge an
 
 ---
 
-## � Projects
+##  Projects
 
 ### 💻 [Nina Run](https://github.com/davimoreira0/Nina-Run)
 A project I'm developing for Penetration Testing.
@@ -35,7 +35,7 @@ A project I'm developing for Penetration Testing.
 
 ---
 
-## �📜 Certifications
+## 📜 Certifications
 
 Click below to view my certifications:
 
