@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Davi Moreira
 
-**Cybersecurity Enthusiast | Python Developer | Pentester in Training**
+**Cybersecurity Enthusiast | Python Developer | Aspiring Penetration Tester**
 
 [![Age](https://img.shields.io/badge/Age-15%20years-blue?style=for-the-badge)](mailto:moreiradavi336@gmail.com)
 [![Email](https://img.shields.io/badge/Email-moreiradavi336%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moreiradavi336@gmail.com)
@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-I am a high school programming student highly passionate about technology and automation. Always seeking new challenges, I am currently specializing in **Cybersecurity** and **Ethical Hacking**. I love building scripts that simplify complex security processes and diving deep into Linux environments.
+I am a programming student with a strong focus on technology, automation, and information security. Driven by a continuous desire to tackle new challenges, I am actively specializing in **Cybersecurity** and **Ethical Hacking**. My expertise lies in developing scripts to streamline security operations and navigating complex Linux environments. Alongside Kali Linux, I actively leverage **BlackArch Linux** to conduct comprehensive penetration tests and advanced security assessments.
 
-- 🔭 **Currently focusing on:** Advancing my skills in Penetration Testing and Python automation.
-- 🌱 **Operating Systems of choice:** Kali Linux for security and Linux Mint for daily driving.
-- ⚡ **Fun fact:** I love creating CLI tools to automate repetitive hacking tasks.
+- 🔭 **Currently focusing on:** Advancing my skills in Penetration Testing, vulnerability assessment, and Python automation.
+- 🌱 **Operating Systems of choice:** Kali Linux and BlackArch Linux for security testing, and Linux Mint for daily operations.
+- ⚡ **Fun fact:** I enjoy engineering CLI tools to automate and optimize repetitive security workflows.
 
 ---
 
@@ -33,14 +33,15 @@ I am a high school programming student highly passionate about technology and au
 | Category | Technologies |
 |----------|--------------|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Cybersecurity & OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C540?style=for-the-badge&logo=linux-mint&logoColor=white) ![Pentesting](https://img.shields.io/badge/Penetration%20Testing-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white) |
+| **Cybersecurity & OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![BlackArch Linux](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=red) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C540?style=for-the-badge&logo=linux-mint&logoColor=white) ![Pentesting](https://img.shields.io/badge/Penetration%20Testing-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white) |
 | **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-181717?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
 ---
 
 ## 💻 Featured Projects
 
 ### 🛡️ [Nina-Run](https://github.com/davimoreira0/Nina-Run)
-A tool focused on Penetration Testing operations, built to streamline security assessments.
+A specialized tool focused on Penetration Testing operations, engineered to streamline security assessments and workflows.
 [![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/Nina-Run)
 
 ---
