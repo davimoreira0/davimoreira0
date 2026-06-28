@@ -44,6 +44,10 @@ I am a programming student with a strong focus on technology, automation, and in
 A specialized tool focused on Penetration Testing operations, engineered to streamline security assessments and workflows.
 [![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/Nina-Run)
 
+### 🛜 [AutoNmap](https://github.com/davimoreira0/AutoNmap)
+AutoNmap gives you a menu-driven interface around nmap so you don't have to remember flags. Pick a scan type, enter the target, and it runs the right command for you.
+[![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/AutoNmap)
+
 ---
 
 ## 📜 Certifications
