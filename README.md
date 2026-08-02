@@ -40,13 +40,17 @@ I am a programming student with a strong focus on technology, automation, and in
 
 ## 💻 Featured Projects
 
-### 🛡️ [Nina-Run](https://github.com/davimoreira0/Nina-Run)
+### [Nina-Run](https://github.com/davimoreira0/Nina-Run)
 A specialized tool focused on Penetration Testing operations, engineered to streamline security assessments and workflows.
 [![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/Nina-Run)
 
-### 🛜 [AutoNmap](https://github.com/davimoreira0/AutoNmap)
+### [AutoNmap](https://github.com/davimoreira0/AutoNmap)
 AutoNmap gives you a menu-driven interface around nmap so you don't have to remember flags. Pick a scan type, enter the target, and it runs the right command for you.
 [![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/AutoNmap)
+
+### [CameraDiscover](https://github.com/davimoreira0/CameraDiscover)
+CameraDiscover is a professional network security tool for discovering security cameras, DVRs, and NVRs on local networks. It combines multiple fingerprinting techniques to identify devices with high accuracy and assigns a confidence score to each detection.
+[![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/CameraDiscover)
 
 ---
 
