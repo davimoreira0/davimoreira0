@@ -1,73 +1,89 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Davi Moreira
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=165&section=header&text=Davi%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Python%20%C2%B7%20Automation%20%C2%B7%20Information%20Security&descAlignY=65&descSize=17&descAlign=50" alt="Davi Moreira" width="100%" />
 
-**Cybersecurity Enthusiast | Python Developer | Aspiring Penetration Tester**
+# Hi, I'm Davi Moreira 👋
 
-[![Age](https://img.shields.io/badge/Age-15%20years-blue?style=for-the-badge)](mailto:moreiradavi336@gmail.com)
-[![Email](https://img.shields.io/badge/Email-moreiradavi336%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moreiradavi336@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-31990005262-green?style=for-the-badge&logo=whatsapp)](tel:+5531990005262)
-[![Instagram](https://img.shields.io/badge/Instagram-@dmoreirap__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dmoreirap_)
+**Student developer focused on Python, automation, and information security.**
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=davimoreira0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Davi's GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davimoreira0&theme=tokyonight&hide_border=true&background=0D1117" alt="Davi's GitHub Streak" width="48%">
-
----
+<a href="https://github.com/davimoreira0">
+  <img src="https://img.shields.io/badge/GitHub-davimoreira0-181717?style=for-the-badge&logo=github&logoColor=white" alt="Davi Moreira's GitHub profile" />
+</a>
+<a href="mailto:moreiradavi336@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Davi Moreira" />
+</a>
+<a href="https://instagram.com/dmoreirap_">
+  <img src="https://img.shields.io/badge/Instagram-%40dmoreirap__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Davi Moreira's Instagram" />
+</a>
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I am a programming student with a strong focus on technology, automation, and information security. Driven by a continuous desire to tackle new challenges, I am actively specializing in **Cybersecurity** and **Ethical Hacking**. My expertise lies in developing scripts to streamline security operations and navigating complex Linux environments. Alongside Kali Linux, I actively leverage **BlackArch Linux** to conduct comprehensive penetration tests and advanced security assessments.
+I'm a student developer interested in building useful solutions with Python, exploring Linux environments, and expanding my knowledge of information security. I especially enjoy automating repetitive tasks and understanding how systems and networks work.
 
-- 🔭 **Currently focusing on:** Advancing my skills in Penetration Testing, vulnerability assessment, and Python automation.
-- 🌱 **Operating Systems of choice:** Kali Linux and BlackArch Linux for security testing, and Linux Mint for daily operations.
-- ⚡ **Fun fact:** I enjoy engineering CLI tools to automate and optimize repetitive security workflows.
+I currently focus my studies on security testing, vulnerability assessment, and automation. Any security-related learning or use of tools is conducted exclusively in authorized environments.
 
----
+## Technologies
 
-## 🛠️ Technical Skills & Arsenal
+**Languages**
 
-| Category | Technologies |
-|----------|--------------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Cybersecurity & OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![BlackArch Linux](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=red) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C540?style=for-the-badge&logo=linux-mint&logoColor=white) ![Pentesting](https://img.shields.io/badge/Penetration%20Testing-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white) |
-| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-181717?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
----
+**Systems & Security**
 
-## 💻 Featured Projects
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87C540?style=flat-square&logo=linux-mint&logoColor=white)
+![Pentest](https://img.shields.io/badge/Pentest-1F2937?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-181717?style=flat-square)
+
+## Featured Projects
 
 ### [Nina-Run](https://github.com/davimoreira0/Nina-Run)
-A specialized tool focused on Penetration Testing operations, engineered to streamline security assessments and workflows.
-[![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/Nina-Run)
+
+A Python tool designed to support security-testing workflows.
 
 ### [AutoNmap](https://github.com/davimoreira0/AutoNmap)
-AutoNmap gives you a menu-driven interface around nmap so you don't have to remember flags. Pick a scan type, enter the target, and it runs the right command for you.
-[![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/AutoNmap)
+
+An interactive, menu-driven interface that simplifies running Nmap scans.
 
 ### [CameraDiscover](https://github.com/davimoreira0/CameraDiscover)
-CameraDiscover is a professional network security tool for discovering security cameras, DVRs, and NVRs on local networks. It combines multiple fingerprinting techniques to identify devices with high accuracy and assigns a confidence score to each detection.
-[![View Project](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimoreira0/CameraDiscover)
 
----
+A tool for discovering cameras, DVRs, and NVRs on local networks using device-identification techniques.
 
-## 📜 Certifications
+<p>
+  <a href="https://github.com/davimoreira0?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all of Davi Moreira's repositories" />
+  </a>
+</p>
 
-Click below to view my verified certifications and course completions:
+## Certifications & Courses
 
-[![View Certificates](https://img.shields.io/badge/View%20My%20Certificates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davimoreira0/My-Certificates)
+My certificates and course completions are collected in the [My-Certificates](https://github.com/davimoreira0/My-Certificates) repository.
 
----
+## Contact
+
+If you'd like to connect about programming, automation, or information security, feel free to reach out by [email](mailto:moreiradavi336@gmail.com) or [Instagram](https://instagram.com/dmoreirap_).
 
 <div align="center">
 
-### 💡 *"Knowledge is the only thing no one can take away from you."*
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=davimoreira0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=E2E8F0" alt="Davi Moreira's GitHub statistics" />
 
-⭐ **Feel free to explore my repositories!** ⭐
+<br />
+<br />
+
+<sub>Open to learning, collaborating, and building useful solutions.</sub>
 
 </div>
